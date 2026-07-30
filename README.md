@@ -13,7 +13,7 @@ actually land — [**11 PRs, 2 merged, 41 lessons**](https://github.com/Christia
 
 Also: [Nelson Companion](https://github.com/ChristianLuciani/nelson-companion)
 (PWA for my father, 76, post-stroke aphasia) ·
-[CV](https://christianluciani.github.io/cv-cluciani) (museum-style, optical illusions) ·
+[CV](https://christianluciani.github.io) (museum-style, optical illusions) ·
 [Ollama → AionUi](https://github.com/iOfficeAI/AionCore/pull/626) (WIP)
 
 Stack: **Python · Rust · TypeScript · MCP · ACP · LiteLLM · ERPNext**.
