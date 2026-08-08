@@ -21,7 +21,7 @@ My work is driven by one conviction: technology should be **auditable, self-owne
 
 A graph-based, deterministic ontology bridging 195 jurisdictions, IFRS/XBRL, and the agentic economy (MCP, A2A, AP2) — so machines can exchange financial value **without a middleman**. Preprint on Zenodo & SSRN. v0.3.0: lossless cross-jurisdictional translation with provenance.
 
-### 📬 Topia — from dystopia to achievable utopias
+### 📬 Topia — from dystopia to achievable **eutopias**
 
 A newsletter with **epistemic rigor**: one essay at a time, every claim traced, every thesis falsifiable. Maps the path to technological sovereignty, collective cognition, and regenerative economies — without jargon, without naïveté, without alarmism. *(launching soon)*
 
