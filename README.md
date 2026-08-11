@@ -1,57 +1,139 @@
-<div align="center">
-
 # Christian Luciani
 
-### Sovereign technology · Digital freedom · Open source
+### Physicist · Complex Systems · Synthetic Intelligence for Education
 
-[![Website](https://img.shields.io/badge/cv-christianluciani.github.io-111111?style=flat&logo=github&logoColor=white)](https://christianluciani.github.io)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6955--5384-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6955-5384)
-[![Zenodo](https://img.shields.io/badge/Zenodo-Kontablo-168363?style=flat&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.20738795)
-[![SSRN](https://img.shields.io/badge/SSRN-6960598-8b1a1a?style=flat&logo=academia&logoColor=white)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6960598)
+[![Website](https://img.shields.io/badge/Website-christianluciani.github.io-111111?style=flat&logo=github&logoColor=white)](https://christianluciani.github.io) [![ORCID](https://img.shields.io/badge/ORCID-orcid.org-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6955-5384) [![Scholar](https://img.shields.io/badge/Scholar-scholar.google.com-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=7GbpmSQAAAAJ&hl=en) [![GitHub](https://img.shields.io/badge/GitHub-github.com-181717?style=flat&logo=github&logoColor=white)](https://github.com/ChristianLuciani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-luciani) [![ResearchGate](https://img.shields.io/badge/ResearchGate-researchgate.net-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Christian-Luciani) [![X](https://img.shields.io/badge/X-x.com-000000?style=flat&logo=X&logoColor=white)](https://x.com/cluciani_ve)
 
-</div>
+**Physicist with a doctoral candidacy in complex systems and 20+ years navigating scientific research, university teaching and educational innovation.**
 
----
+## Projects
 
-**I build open source because I believe digital sovereignty is a right — not a feature.**
+- **Drahma — Educational Synthetic Intelligence** · `active` — 36 Socratic virtual tutors for the Ecuadorian curriculum, field-tested in the Amazon (Aug 2024) — roughly two months before Khanmigo went public. Built without external funding; model-agnostic via Poe; guardrails for minors.
+  - [github.com/DRAHMAN-ORG/drahman-org](https://github.com/DRAHMAN-ORG/drahman-org)
+  - Evidence: 36 Socratic virtual tutors for the Ecuadorian curriculum, field-tested with Amazonian indigenous communities (Aug 2024) ([source](https://github.com/DRAHMAN-ORG/drahman-org))
 
-My work is driven by one conviction: technology should be **auditable, self-owned, and free**. I put that into practice across three fronts:
+- **Esteléctica — Epistemology of Distilled Poly-dialectical Dialogue** · `experimental` — Philosophical proposal and software architecture about the nature of collective knowledge in the age of synthetic cognition. Trunk/Rhizome model: the rhizome explores freely; the human–synthetic-cognition pair periodically distills toward the Trunk. Integrates Noesis and Noetix.
+  - [github.com/ChristianLuciani/estelectica](https://github.com/ChristianLuciani/estelectica)
+  - Evidence: Trunk/Rhizome model defined; integrates Noesis (taxonomy of thought perspectives) and Noetix (compound-agent engine) ([source](https://github.com/ChristianLuciani/estelectica))
 
-### 🔬 [Kontablo](https://github.com/ChristianLuciani/accounting-esperanto) — universal accounting ontology
+- **Kontablo — Universal Accounting Ontology** · `active` — An Esperanto for accounting: graph-based ontology mapping the 195 sovereign jurisdictions to IFRS/XBRL and to the agentic economy (MCP · A2A · AP2). One immutable UUID per universal accounting concept; deterministic three-tier resolution.
+  - [github.com/ChristianLuciani/accounting-esperanto](https://github.com/ChristianLuciani/accounting-esperanto)
+  - Evidence: 195 sovereign jurisdictions mapped; 60 statutory chart-of-accounts overlays (56 exercised against primary sources) ([source](https://github.com/ChristianLuciani/accounting-esperanto))
+  - Evidence: Published June 2026 under Business Source License 1.1 (converts to Apache 2.0 in 2030); preprint deposited on Zenodo and SSRN ([source](https://doi.org/10.5281/zenodo.20738795))
 
-A graph-based, deterministic ontology bridging 195 jurisdictions, IFRS/XBRL, and the agentic economy (MCP, A2A, AP2) — so machines can exchange financial value **without a middleman**. Preprint on Zenodo & SSRN. v0.3.0: lossless cross-jurisdictional translation with provenance.
+- **ZENTROPY — Zero Entropy Intelligence Station** · `active` — Personal cognitive operating system — captures, distills and organizes synthetic-cognition conversations. Solves dialectical entropy: flashes of clarity that vanish get stored in a structured database (Supabase). Universal ingestion: Claude JSON/ZIP, ChatGPT, Markdown.
+  - [github.com/ChristianLuciani/ZENTROPY](https://github.com/ChristianLuciani/ZENTROPY)
+  - Evidence: Stage 1 complete (operational): structured Supabase schema, universal ingestion (Claude JSON/ZIP, ChatGPT, Markdown), multi-tenant architecture ([source](https://github.com/ChristianLuciani/ZENTROPY))
 
-### 📬 Topia — from dystopia to achievable **eutopias**
+- **NOOS — Natural Organization Operating System** · `experimental` — Reduce organizational entropy through distributed synthetic intelligence and knowledge graphs. Organizations modeled as thermodynamic systems with high/low-entropy states. Destination: high-value consulting for organizations in digital transition.
 
-A newsletter with **epistemic rigor**: one essay at a time, every claim traced, every thesis falsifiable. Maps the path to technological sovereignty, collective cognition, and regenerative economies — without jargon, without naïveté, without alarmism. *(launching soon)*
+- **CLAPPS.AI — Comprehensive Learning Applications** · `planning` — Self-taught human-development platform — a counterpoint to the traditional LMS model. Structured, dynamic support for long-term skill development. Closest current reference: NotebookLM, but without structured competency progression.
+  - [github.com/ChristianLuciani/clapps-praxia](https://github.com/ChristianLuciani/clapps-praxia)
 
-### 🔱 Upstream contributions — open source as practice
+## Publications
 
-| Upstream | PR | Status |
-|----------|-----|--------|
-| [AionCore](https://github.com/iOfficeAI/AionCore) (★78) | [#618](https://github.com/iOfficeAI/AionCore/pull/618) — Pi as builtin ACP agent | ✅ merged |
-| [pi-acp](https://github.com/svkozak/pi-acp) (★559) | [#76](https://github.com/svkozak/pi-acp/pull/76) — `session/delete` per ACP spec | ✅ merged |
-| [AionCore](https://github.com/iOfficeAI/AionCore) | [#626](https://github.com/iOfficeAI/AionCore/pull/626) — Ollama → local ACP agents | open |
-| [AionUi](https://github.com/iOfficeAI/AionUi) (★31K) | [#3614](https://github.com/iOfficeAI/AionUi/pull/3614) — theme-aware logos | open |
+- **Kontablo: A Graph-Based Universal Accounting Ontology for the M2M Agentic Economy** — Preprint — Zenodo & SSRN (not yet peer-reviewed), 2026. [DOI: 10.5281/zenodo.20738795](https://doi.org/10.5281/zenodo.20738795)
 
-Every merged PR is infrastructure that belongs to everyone — that is the point.
+- **Highly efficient caffeine-based PVA composite film for UV shielding** — Carbon Trends, 2025. [DOI: 10.1016/j.cartre.2025.100502](https://doi.org/10.1016/j.cartre.2025.100502)
 
-### 🧰 Stack
+- **Tunable Dielectric Carbon Materials from Hydrothermally Nanostructured Organic Carbon Sources** — ChemPhysChem, 2025. [DOI: 10.1002/cphc.202400711](https://doi.org/10.1002/cphc.202400711)
 
-`Python` `Rust` `TypeScript` `MCP` `ACP` `LiteLLM` `ERPNext` `Ghost`
+- **Optimization of microfibrillated cellulose isolation from cocoa pod husk via mild oxalic acid hydrolysis** — Heliyon, 2023. [DOI: 10.1016/j.heliyon.2023.e17258](https://doi.org/10.1016/j.heliyon.2023.e17258)
 
-### 🧠 Also
+- **Hydrochars from Lignocellulosic Residues for Green Electronics, Environmental Remediation, Energy and Agricultural Applications** — ResearchGate preprint, 2023.
 
-- [**Nelson Companion**](https://github.com/ChristianLuciani/nelson-companion) — voice-guided PWA for my father (76, post-stroke aphasia). Offline-first, zero telemetry.
-- [**Physics Lab Books**](https://github.com/ChristianLuciani/physics-lab-book) — HTML5 interactive lab manuals for university physics.
-- Physics by training (USFQ). Peer-reviewed publications in fluid dynamics and econophysics.
+- **Optimization of Microcrystalline Cellulose Isolation from Cocoa Pod Husk via Mild Oxalic Acid Hydrolysis** — SSRN Electronic Journal, 2022. [DOI: 10.2139/ssrn.4307097](https://doi.org/10.2139/ssrn.4307097)
 
----
+- **Ivory Nut (Phytelephas equatorialis) Residues: Chemical Composition for Applications in Health Care, Industry and Environmental Remediation — Towards Sustainability** — 2022 AIChE Annual Meeting (abstract), 2022.
 
-<div align="center">
+- **Neural control on multiple time scales: Insights from human stick balancing** — Condensed Matter Physics, 2006. [DOI: 10.5488/CMP.9.2.373](https://doi.org/10.5488/CMP.9.2.373)
 
-[![GitHub followers](https://img.shields.io/github/followers/ChristianLuciani?label=Follow&style=social)](https://github.com/ChristianLuciani)
-&nbsp;
-[![Stars](https://img.shields.io/github/stars/ChristianLuciani?style=social)](https://github.com/ChristianLuciani)
+- **Balancing with Noise and Delay** — Progress of Theoretical Physics Supplement, 2006. [DOI: 10.1143/PTPS.161.314](https://doi.org/10.1143/PTPS.161.314)
 
-</div>
+## Skills
+
+- **Agentic Coding** (advanced): agent-guided development, SPEC + TDD with agents, AI-assisted maintenance
+
+- **Open Source** (advanced): upstream contributions, AionCore (Pi as built-in ACP), pi-acp (session/delete), BSL 1.1 → Apache 2.0
+
+- **Synthetic Intelligence / Agents** (advanced): agent orchestration, synthetic cognition, MCP, ACP, A2A, Socratic tutors, RAG context engineering
+
+- **Technological Sovereignty** (expert): self-hosting, LiteLLM / Ollama, ERPNext, privacy and data ownership, Linux / macOS
+
+- **Sciences — Physics** (expert): sistemas complejos, X-ray diffractometry, radiological safety, experimental physics
+
+- **Platforms & Ecosystem** (intermediate): ERPNext, Zoho ERP, Supabase, Chatwoot, Poe
+
+## Links
+
+- [CV — christianluciani.github.io](https://christianluciani.github.io)
+
+- [Email](mailto:cluciani@gmail.com)
+
+- [WhatsApp](https://wa.me/593993716335)
+
+- [ORCID](https://orcid.org/0000-0002-6955-5384)
+
+- [Google Scholar](https://scholar.google.com/citations?user=7GbpmSQAAAAJ&hl=en)
+
+- [GitHub](https://github.com/ChristianLuciani)
+
+- [LinkedIn](https://www.linkedin.com/in/christian-luciani)
+
+- [ResearchGate](https://www.researchgate.net/profile/Christian-Luciani)
+
+- [X](https://x.com/cluciani_ve)
+
+- [Instagram](https://www.instagram.com/clucianitoledo)
+
+- [Patreon](https://www.patreon.com/cluciani)
+
+- [Kontablo — accounting-esperanto](https://github.com/ChristianLuciani/accounting-esperanto)
+
+- [Physics Lab Book](https://github.com/ChristianLuciani/physics-lab-book)
+
+- [Nelson Companion](https://github.com/ChristianLuciani/nelson-companion)
+
+- [Topia](https://github.com/ChristianLuciani/topia)
+
+- [ZENTROPY](https://github.com/ChristianLuciani/ZENTROPY)
+
+- [Esteléctica](https://github.com/ChristianLuciani/estelectica)
+
+- [CLAPPS.AI](https://github.com/ChristianLuciani/clapps-praxia)
+
+- [Drahma — DRAHMAN-ORG](https://github.com/DRAHMAN-ORG/drahman-org)
+
+<!-- JSON-LD (schema.org Person) -->
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Christian Luciani",
+  "image": "https://lh3.googleusercontent.com/pw/AP1GczO0shri3gqnp7PXfST6iji5bEzrFTzJfnQwKJaGDiLIpGDDWUBgi0eSqW3v79qv63XXBukEWeyWLobOPjLO2NlsJJlyi_A_-KdJtjzJGswIfIank4YA=w500-h500-c",
+  "address": "Cuenca, Ecuador",
+  "sameAs": [
+    "https://christianluciani.github.io",
+    "mailto:cluciani@gmail.com",
+    "https://wa.me/593993716335",
+    "https://orcid.org/0000-0002-6955-5384",
+    "https://scholar.google.com/citations?user=7GbpmSQAAAAJ&hl=en",
+    "https://github.com/ChristianLuciani",
+    "https://www.linkedin.com/in/christian-luciani",
+    "https://www.researchgate.net/profile/Christian-Luciani",
+    "https://x.com/cluciani_ve",
+    "https://www.instagram.com/clucianitoledo",
+    "https://www.patreon.com/cluciani",
+    "https://github.com/ChristianLuciani/accounting-esperanto",
+    "https://github.com/ChristianLuciani/physics-lab-book",
+    "https://github.com/ChristianLuciani/nelson-companion",
+    "https://github.com/ChristianLuciani/topia",
+    "https://github.com/ChristianLuciani/ZENTROPY",
+    "https://github.com/ChristianLuciani/estelectica",
+    "https://github.com/ChristianLuciani/clapps-praxia",
+    "https://github.com/DRAHMAN-ORG/drahman-org"
+  ]
+}
+```
+
+<!-- generated by profile-as-code pac build github-readme · 9 projects · 9 publications -->
